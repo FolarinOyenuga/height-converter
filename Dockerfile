@@ -25,3 +25,4 @@ COPY --from=builder /app/heightConverter /heightConverter
 # Command to run the executable
 CMD ["/heightConverter"]
 
+
